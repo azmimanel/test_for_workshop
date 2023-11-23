@@ -5,4 +5,5 @@ function myFunction(p1, p2) {
 
 const result = myFunction(2, 2);
 const resultTwo = myFunction(4, 3);
+const text = "this is a text";
 console.log(resultTwo);
